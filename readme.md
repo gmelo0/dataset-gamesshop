@@ -9,3 +9,5 @@
 - [ ] Transformar dados de vendasem informações relevantes para a fabricante
 - [ ] Quais são os produtos mais populares em cada país
 - [ ] Como otimizar o processo de transporte e logística até o momento da venda
+
+### Projeto criado no Bootcamp Micrsoft IA for Tech - Criando Prompts Inteligentes
